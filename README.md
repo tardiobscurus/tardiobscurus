@@ -1,4 +1,8 @@
-### Hi there 👋
+<img src="main-banner.png" alt="main banner">
+
+<div>
+
+</div>
 
 <!--
 **tardiobscurus/tardiobscurus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
