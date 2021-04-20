@@ -1,16 +1,10 @@
 <img src="main-banner.png" alt="main banner">
 
-<style>
-    .social img{
-        width: 25px;
-        margin: 0 auto;
-    }
-</style>
-
----
-
-<div class="social">
-<img src="social/yt.png" alt="youtube">
-<img src="social/tw.png" alt="youtube">
+<!--
+<div class="social" style="margin: 0 auto; width: fit-content;">
+<a href="https://www.twitter.com/caecuselegans"><img style="width: 50px; margin-right: 10px;" src="social/yt.png" alt="youtube"></a>
+<a href="https://www.youtube.com/c/tardiobscurus"><img style="width: 50px;" src="social/tw.png" alt="twitter"></a>
 </div>
+-->
 
+<h2 style="text-align: center">tardiobscurus :white_heart: github</h2>
