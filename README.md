@@ -7,4 +7,4 @@
 </div>
 -->
 
-<center><h2>tardiobscurus :white_heart: github</h2></center>
+<h2 align="center">tardiobscurus :white_heart: github</h2>
