@@ -1,10 +1,18 @@
 <img src="main-banner.png" alt="main banner">
 
-<!--
-<div class="social" style="margin: 0 auto; width: fit-content;">
-<a href="https://www.twitter.com/caecuselegans"><img style="width: 50px; margin-right: 10px;" src="social/yt.png" alt="youtube"></a>
-<a href="https://www.youtube.com/c/tardiobscurus"><img style="width: 50px;" src="social/tw.png" alt="twitter"></a>
-</div>
--->
+<!-- ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rafnixg.rafnixg) -->
 
-<h2 align="center">tardiobscurus :white_heart: github</h2>
+<br/>
+
+<h1 align="center">tardiobscurus :white_heart: github</h1>
+
+<br/>
+
+hello! this is the official GitHub of the japanese music curator, [tardiobscurus](https://youtube.com/c/tardiobscurus). currently, a high school senior, taking an intrest in web design, cyber security, and AI, sharing the world over his projects and simple practice programs to imporve their skills.
+
+# coding languages:
+<img src="images/python.svg" height="40px" title="python3"/>
+<img src="images/html5.svg" height="40px" title="html5"/>
+<img src="images/css3.svg" height="40px" title="css3"/>
+<img src="images/js.svg" height="40px" title="js"/>
+<img src="images/git.svg" height="40px" title="git"/>
