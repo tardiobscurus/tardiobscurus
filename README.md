@@ -35,10 +35,14 @@ the work i've done recently. the recent project as of now is my [unCAPTCHA](http
 
 <h3 align="center">websites</h3>
 
+<div align="center">
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tardiobscurus&repo=japanese-club&theme=midnight-purple)](https://github.com/tardiobscurus/japanese-club) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tardiobscurus&repo=chs_technology_pathway&theme=midnight-purple)](https://github.com/tardiobscurus/chs_technology_pathway) 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tardiobscurus&repo=New-New-Simple-Views&theme=midnight-purple)](https://github.com/tardiobscurus/chs_technology_pathway)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tardiobscurus&repo=dadJokes&theme=midnight-purple)](https://github.com/tardiobscurus/dadJokes)
+
+</div>
 
 <h3 align="center">python programs</h3>
 
@@ -50,7 +54,11 @@ the work i've done recently. the recent project as of now is my [unCAPTCHA](http
 
 <h2 align="center">stats on my page</h2>
 
+<div align="center">
+
 [![tardiobscrus's github stats](https://github-readme-stats.vercel.app/api?username=tardiobscurus&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tardiobscurus&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 
 
