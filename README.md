@@ -20,10 +20,11 @@
 
 hello! this is the official GitHub of the japanese music curator, [tardiobscurus](https://youtube.com/c/tardiobscurus). currently, a high school senior, taking an interest in web design, cybersecurity, and AI, sharing the world over his projects and simple practice programs to improve their skills.
 
-# 💻 languages and tools:  
+# 💻 languages and tools i know:  
 <img src="images/python.svg" height="35px" title="python3"/> <img src="images/html5.svg" height="40px" title="html5"/> <img src="images/css3.svg" height="40px" title="css3"/> <img src="images/js.svg" height="40px" title="js"/> <img src="images/git.svg" height="40px" title="git"> <img src="images/bash.svg" height="40px" title="bash">
 
----
+<br>
+<br>
 
 # 📈stats on my page:
 
