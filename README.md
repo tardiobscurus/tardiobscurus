@@ -25,9 +25,4 @@ hello! this is the official GitHub of the japanese music curator, [tardiobscurus
 
 <br/>
 
-<div align="center">
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tardiobscurus&theme=default)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tardiobscurus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
