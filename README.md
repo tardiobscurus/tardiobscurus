@@ -46,7 +46,7 @@ the work i've done recently. the recent project as of now is my [unCAPTCHA](http
 
 <h3 align="center">python programs</h3>
 
-<div>
+<div align="center">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tardiobscurus&repo=unCAPTCHA&theme=midnight-purple)](https://github.com/tardiobscurus/unCAPTCHA) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tardiobscurus&repo=netDet&theme=midnight-purple)](https://github.com/tardiobscurus/netDet)
 
