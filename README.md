@@ -1,9 +1,6 @@
 <img src="main-banner.png" alt="main banner">
 
 <!-- ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rafnixg.rafnixg) -->
-
-<br/>
-
 <h1 align="center">tardiobscurus :white_heart: github</h1>
 
 <br/>
