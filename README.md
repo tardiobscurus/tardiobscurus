@@ -33,14 +33,14 @@ hello! this is the official GitHub of the japanese music curator, [tardiobscurus
 
 the work i've done recently. the recent project as of now is my [unCAPTCHA](https://github.com/tardiobscurus/unCAPTCHA) repo.
 
-## websites
+<h3 align="center">websites</h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tardiobscurus&repo=japanese-club&theme=midnight-purple)](https://github.com/tardiobscurus/japanese-club) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tardiobscurus&repo=chs_technology_pathway&theme=midnight-purple)](https://github.com/tardiobscurus/chs_technology_pathway) 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tardiobscurus&repo=New-New-Simple-Views&theme=midnight-purple)](https://github.com/tardiobscurus/chs_technology_pathway)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tardiobscurus&repo=dadJokes&theme=midnight-purple)](https://github.com/tardiobscurus/dadJokes)
 
-## python programs
+<h3 align="center">python programs</h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tardiobscurus&repo=unCAPTCHA&theme=midnight-purple)](https://github.com/tardiobscurus/unCAPTCHA) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tardiobscurus&repo=netDet&theme=midnight-purple)](https://github.com/tardiobscurus/netDet)
 
