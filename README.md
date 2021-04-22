@@ -11,17 +11,12 @@
 
 <h1 align="center">tardiobscurus :white_heart: github</h1>
 
-<!-- - weeb who loves japanese music
-- intermediate to advanced intermediate python programming
-- vanilla web development
-- not yet explored flasked/django
-- not yet explored react/angular/vue
-- not yet had a job... computer science related -->
-
 hello! this is the official GitHub of the japanese music curator, programming loving weeb, [tardiobscurus](https://youtube.com/c/tardiobscurus). currently, a high school senior, taking an interest in web design, cybersecurity, and AI, sharing the world over his projects and simple practice programs to improve their skills.
 
 🌱 currently learning: react js
+
 🔨 currently working on: my personal website
+
 ✨ currently watching: usually youtube y'know
 
 <h2 align="center">languages and tools</h2>  
