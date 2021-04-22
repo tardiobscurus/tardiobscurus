@@ -13,7 +13,7 @@
 
 hello! this is the official GitHub of the japanese music curator, programming loving weeb, [tardiobscurus](https://youtube.com/c/tardiobscurus). currently, a high school senior, taking an interest in web design, cybersecurity, and AI, sharing the world over his projects and simple practice programs to improve their skills.
 
-🌱 currently learning: react js
+🌱 currently learning: theories of ml algorithms
 
 🔨 currently working on: my personal website
 
