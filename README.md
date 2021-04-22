@@ -37,10 +37,10 @@ the work i've done recently. the recent project as of now is my [unCAPTCHA](http
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tardiobscurus&repo=japanese-club&theme=default)](https://github.com/tardiobscurus/japanese-club) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tardiobscurus&repo=chs_technology_pathway&theme=default)](https://github.com/tardiobscurus/chs_technology_pathway) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tardiobscurus&repo=japanese-club&theme=dark)](https://github.com/tardiobscurus/japanese-club) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tardiobscurus&repo=chs_technology_pathway&theme=dark)](https://github.com/tardiobscurus/chs_technology_pathway) 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tardiobscurus&repo=New-New-Simple-Views&theme=default)](https://github.com/tardiobscurus/chs_technology_pathway)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tardiobscurus&repo=dadJokes&theme=default)](https://github.com/tardiobscurus/dadJokes)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tardiobscurus&repo=New-New-Simple-Views&theme=dark)](https://github.com/tardiobscurus/chs_technology_pathway)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tardiobscurus&repo=dadJokes&theme=dark)](https://github.com/tardiobscurus/dadJokes)
 
 </div>
 
@@ -48,19 +48,17 @@ the work i've done recently. the recent project as of now is my [unCAPTCHA](http
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tardiobscurus&repo=unCAPTCHA&theme=default)](https://github.com/tardiobscurus/unCAPTCHA) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tardiobscurus&repo=netDet&theme=default)](https://github.com/tardiobscurus/netDet)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tardiobscurus&repo=unCAPTCHA&theme=dark)](https://github.com/tardiobscurus/unCAPTCHA) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tardiobscurus&repo=netDet&theme=dark)](https://github.com/tardiobscurus/netDet)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tardiobscurus&repo=pass-gen&theme=default)](https://github.com/tardiobscurus/pass-gen)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tardiobscurus&repo=pass-gen&theme=dark)](https://github.com/tardiobscurus/pass-gen)
 
 </div>
-
-
-
+    
 <h2 align="center">stats on my page</h2>
 
 <div align="center">
 
-[![tardiobscrus's github stats](https://github-readme-stats.vercel.app/api?username=tardiobscurus&theme=default)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tardiobscurus&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![tardiobscrus's github stats](https://github-readme-stats.vercel.app/api?username=tardiobscurus&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tardiobscurus&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
