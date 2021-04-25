@@ -8,6 +8,14 @@
 
 </div>
 
+<div align="center">
+<a href="https://twitter.com/caecuselegans"><img src="social/twitter.svg" height="20px" alt="twitter"></a><a href="https://youtube.com/c/tardiobscurus">
+    <img src="social/youtube.svg" alt="youtube" height="20px">
+</a><a href="mailto:tardiobscurus@hotmail.com">
+    <img src="social/email.svg" alt="e-mail" height="20px">
+</a>
+</div>
+
 
 <h1 align="center">tardiobscurus :white_heart: github</h1>
 
@@ -16,8 +24,6 @@ hello! this is the official GitHub of the japanese music curator, programming lo
 🌱 currently learning: react js
 
 🔨 currently working on: ... 
-
-✨ currently watching: the *trash taste* podcast
 
 <h2 align="center">languages and tools</h2>  
 <div align="center">
@@ -57,18 +63,6 @@ the work i've done recently. the recent project as of now is my [unCAPTCHA](http
 
 [![tardiobscrus's github stats](https://github-readme-stats.vercel.app/api?username=tardiobscurus&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tardiobscurus&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
-
-
-
-<h2 align="center">contact and social media</h2>
-
-<div align="center">
-<a href="https://twitter.com/caecuselegans"><img src="social/twitter.svg" height="25px"></a><a href="https://youtube.com/c/tardiobscurus">
-    <img src="social/youtube.svg" height="25px">
-</a><a href="mailto:tardiobscurus@hotmail.com">
-    <img src="social/email.svg" height="25px">
-</a>
 </div>
 
 <!-- [![twitter](social/twitter.svg)](https://twitter.com)
