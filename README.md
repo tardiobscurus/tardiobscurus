@@ -27,7 +27,7 @@ hello! this is the official GitHub of the japanese music curator, programming lo
 
 <h2 align="center">languages and tools</h2>  
 <div align="center">
-<img src="images/python.svg" height="35px" title="python3"/> <img src="images/html5.svg" height="40px" title="html5"/> <img src="images/css3.svg" height="40px" title="css3"/> <img src="images/js.svg" height="40px" title="js"/> <img src="images/git.svg" height="40px" title="git"> <img src="images/bash.svg" height="40px" title="bash">
+<img src="languages/python.svg" height="35px" title="python3"/> <img src="languages/html5.svg" height="40px" title="html5"/> <img src="languages/css3.svg" height="40px" title="css3"/> <img src="languages/js.svg" height="40px" title="js"/> <img src="languages/git.svg" height="40px" title="git"> <img src="languages/bash.svg" height="40px" title="bash">
 </div>
 
 
