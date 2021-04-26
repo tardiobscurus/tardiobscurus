@@ -40,11 +40,9 @@ the work i've done recently. the recent project as of now is my [unCAPTCHA](http
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tardiobscurus&repo=japanese-club&title_color=D0AEE8&text_color=CFD1E9&icon_color=687ED6&hide_border=true&border_radius=0&bg_color=151515)](https://github.com/tardiobscurus/japanese-club) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tardiobscurus&repo=japanese-club&title_color=D0AEE8&text_color=CFD1E9&icon_color=687ED6&hide_border=true&border_radius=0&bg_color=151515)](https://github.com/tardiobscurus/japanese-club) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tardiobscurus&repo=chs_technology_pathway&title_color=D0AEE8&text_color=CFD1E9&icon_color=687ED6&hide_border=true&border_radius=0&bg_color=151515)](https://github.com/tardiobscurus/chs_technology_pathway) 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tardiobscurus&repo=chs_technology_pathway&title_color=D0AEE8&text_color=CFD1E9&icon_color=687ED6&hide_border=true&border_radius=0&bg_color=151515)](https://github.com/tardiobscurus/chs_technology_pathway) 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tardiobscurus&repo=New-New-Simple-Views&title_color=D0AEE8&text_color=CFD1E9&icon_color=687ED6&hide_border=true&border_radius=0&bg_color=151515)](https://github.com/tardiobscurus/chs_technology_pathway)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tardiobscurus&repo=New-New-Simple-Views&title_color=D0AEE8&text_color=CFD1E9&icon_color=687ED6&hide_border=true&border_radius=0&bg_color=151515)](https://github.com/tardiobscurus/New-New-Simple-Views)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tardiobscurus&repo=dadJokes&title_color=D0AEE8&text_color=CFD1E9&icon_color=687ED6&hide_border=true&border_radius=0&bg_color=151515)](https://github.com/tardiobscurus/dadJokes)
 
 </div>
