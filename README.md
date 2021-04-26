@@ -1,4 +1,4 @@
-<img src="main-banner.png" alt="main banner">
+<img src="main-banner.jpg" alt="main banner">
 
 <div align="center">
 
@@ -9,11 +9,11 @@
 </div>
 
 <div align="center">
-<a href="https://twitter.com/caecuselegans"><img src="social/twitter.svg" height="20px" alt="twitter"></a><a href="https://youtube.com/c/tardiobscurus">
-    <img src="social/youtube.svg" alt="youtube" height="20px">
-</a><a href="mailto:tardiobscurus@hotmail.com">
-    <img src="social/email.svg" alt="e-mail" height="20px">
-</a>
+    <a href="https://twitter.com/caecuselegans"><img src="social/twitter.svg" height="50px" alt="twitter"></a> <a href="https://youtube.com/c/tardiobscurus">
+        <img src="social/youtube.svg" alt="youtube" height="50px">
+    </a> <a href="mailto:tardiobscurus@hotmail.com">
+        <img src="social/email.svg" alt="e-mail" height="50px">
+    </a>
 </div>
 
 
@@ -27,7 +27,7 @@ hello! this is the official GitHub of the japanese music curator, programming lo
 
 <h2 align="center">languages and tools</h2>  
 <div align="center">
-<img src="languages/python.svg" height="35px" title="python3"/> <img src="languages/html5.svg" height="40px" title="html5"/> <img src="languages/css3.svg" height="40px" title="css3"/> <img src="languages/js.svg" height="40px" title="js"/> <img src="languages/git.svg" height="40px" title="git"> <img src="languages/bash.svg" height="40px" title="bash">
+<img src="languages/python.svg" height="50px" title="python3"/> <img src="languages/html5.svg" height="50px" title="html5"/> <img src="languages/css3.svg" height="50px" title="css3"/> <img src="languages/js.svg" height="50px" title="js"/> <img src="languages/git.svg" height="50px" title="git"> <img src="languages/bash.svg" height="50px" title="bash">
 </div>
 
 
@@ -40,10 +40,12 @@ the work i've done recently. the recent project as of now is my [unCAPTCHA](http
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tardiobscurus&repo=japanese-club&theme=dark)](https://github.com/tardiobscurus/japanese-club) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tardiobscurus&repo=chs_technology_pathway&theme=dark)](https://github.com/tardiobscurus/chs_technology_pathway) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tardiobscurus&repo=japanese-club&title_color=D0AEE8&text_color=CFD1E9&icon_color=687ED6&hide_border=true&border_radius=0&bg_color=151515)](https://github.com/tardiobscurus/japanese-club) 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tardiobscurus&repo=New-New-Simple-Views&theme=dark)](https://github.com/tardiobscurus/chs_technology_pathway)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tardiobscurus&repo=dadJokes&theme=dark)](https://github.com/tardiobscurus/dadJokes)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tardiobscurus&repo=chs_technology_pathway&title_color=D0AEE8&text_color=CFD1E9&icon_color=687ED6&hide_border=true&border_radius=0&bg_color=151515)](https://github.com/tardiobscurus/chs_technology_pathway) 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tardiobscurus&repo=New-New-Simple-Views&title_color=D0AEE8&text_color=CFD1E9&icon_color=687ED6&hide_border=true&border_radius=0&bg_color=151515)](https://github.com/tardiobscurus/chs_technology_pathway)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tardiobscurus&repo=dadJokes&title_color=D0AEE8&text_color=CFD1E9&icon_color=687ED6&hide_border=true&border_radius=0&bg_color=151515)](https://github.com/tardiobscurus/dadJokes)
 
 </div>
 
@@ -51,9 +53,9 @@ the work i've done recently. the recent project as of now is my [unCAPTCHA](http
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tardiobscurus&repo=unCAPTCHA&theme=dark)](https://github.com/tardiobscurus/unCAPTCHA) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tardiobscurus&repo=netDet&theme=dark)](https://github.com/tardiobscurus/netDet)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tardiobscurus&repo=unCAPTCHA&title_color=D0AEE8&text_color=CFD1E9&icon_color=687ED6&hide_border=true&border_radius=0&bg_color=151515)](https://github.com/tardiobscurus/unCAPTCHA) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tardiobscurus&repo=netDet&title_color=D0AEE8&text_color=CFD1E9&icon_color=687ED6&hide_border=true&border_radius=0&bg_color=151515)](https://github.com/tardiobscurus/netDet)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tardiobscurus&repo=pass-gen&theme=dark)](https://github.com/tardiobscurus/pass-gen)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tardiobscurus&repo=pass-gen&title_color=D0AEE8&text_color=CFD1E9&icon_color=687ED6&hide_border=true&border_radius=0&bg_color=151515)](https://github.com/tardiobscurus/pass-gen)
 
 </div>
     
@@ -61,7 +63,7 @@ the work i've done recently. the recent project as of now is my [unCAPTCHA](http
 
 <div align="center">
 
-[![tardiobscrus's github stats](https://github-readme-stats.vercel.app/api?username=tardiobscurus&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tardiobscurus&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=tardiobscurus&title_color=D0AEE8&text_color=CFD1E9&icon_color=687ED6&hide_border=true&border_radius=0&bg_color=151515" alt="tardiobscurus' github stats" height="150px"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tardiobscurus&layout=compact&title_color=D0AEE8&text_color=CFD1E9&icon_color=687ED6&hide_border=true&border_radius=0&bg_color=151515" alt="tardiobscurus' top languages" height="150px">
 
 </div>
 
